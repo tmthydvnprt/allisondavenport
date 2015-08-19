@@ -185,8 +185,26 @@
                     background-color: #DB0A5B
                 }
             }
+            @keyframes bg {
+                from {
+                    background-color: #eee
+                }
+                to {
+                    background-color: #DB0A5B
+                }
+            }
 
             @-webkit-keyframes fadeUp {
+                from {
+                    opacity: 0;
+                    bottom: -64px;
+                }
+                to {
+                    opacity: 0.5;
+                    bottom: 16px;
+                }
+            }
+            @keyframes fadeUp {
                 from {
                     opacity: 0;
                     bottom: -64px;
@@ -209,16 +227,16 @@
                     transform: translateY(-50%);
                 }
             }
-            @-webkit-keyframes fall {
+            @keyframes rise {
                 from {
                     opacity: 0;
-                    -webkit-transform: translateY(-100%);
-                    transform: translateY(-100%);
+                    -webkit-transform: translateY(50%);
+                    transform: translateY(50%);
                 }
                 to {
                     opacity: 1;
-                    -webkit-transform: translateY(0%);
-                    transform: translateY(0%);
+                    -webkit-transform: translateY(-50%);
+                    transform: translateY(-50%);
                 }
             }
 
