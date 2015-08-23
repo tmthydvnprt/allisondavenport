@@ -6,7 +6,7 @@
     "email"          : "hello@allisondavenport.com",
     "twitter"        : "@AADavenport",
     "description"    : "Allison Davenport's Website",
-    "keywords"       : ["Allison", "Davenport", "teacher", "Teusday's", "Drawing", "elementary", "school","education"],
+    "keywords"       : ["Allison", "Davenport", "teacher", "Tuesday's", "Drawing", "elementary", "school","education"],
     "changefreq"     : "monthly",
     "priority"       : "0.5",
     "local"          : false,
