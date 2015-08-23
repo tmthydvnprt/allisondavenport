@@ -1,2 +1,2 @@
 # allisondavenport
-[website](http://www.allisondavenport.com)
+[website](http://allisondavenport.com)
