@@ -8,9 +8,9 @@
 Page stitched together with quilt:
 quilt          : v0.1.1, make-blog-index-a-patch, 109a5e04bc134de4ad18d70901fe4318c181b2fd
 url            : http://allisondavenport.com/imgs/index.html
-quilted on     : 2016-03-05 18:32:26
+quilted on     : 2016-03-05 18:36:10
 source branch  : master
-source hash    : 970a5d56d30f5a21da7326984dfbfcb2f32b0ac1
+source hash    : 2f338dac7f6bcfff297f42bda89bbd45aabbd697
 stitching took : 0.006 s
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 --><meta charset="utf-8"/>

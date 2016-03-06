@@ -8,10 +8,10 @@
 Page stitched together with quilt:
 quilt          : v0.1.1, make-blog-index-a-patch, 109a5e04bc134de4ad18d70901fe4318c181b2fd
 url            : http://allisondavenport.com/css/index.html
-quilted on     : 2016-03-05 18:32:26
+quilted on     : 2016-03-05 18:36:10
 source branch  : master
-source hash    : 970a5d56d30f5a21da7326984dfbfcb2f32b0ac1
-stitching took : 0.006 s
+source hash    : 2f338dac7f6bcfff297f42bda89bbd45aabbd697
+stitching took : 0.007 s
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 --><meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
